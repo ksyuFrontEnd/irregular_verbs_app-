@@ -1,0 +1,107 @@
+[
+    {
+      "infinitive": "be",
+      "past_simple": "was/were",
+      "past_participle": "been"
+    },
+    {
+      "infinitive": "have",
+      "past_simple": "had",
+      "past_participle": "had"
+    },
+    {
+      "infinitive": "do",
+      "past_simple": "did",
+      "past_participle": "done"
+    },
+    {
+      "infinitive": "go",
+      "past_simple": "went",
+      "past_participle": "gone"
+    },
+    {
+      "infinitive": "eat",
+      "past_simple": "ate",
+      "past_participle": "eaten"
+    },
+    {
+      "infinitive": "drink",
+      "past_simple": "drank",
+      "past_participle": "drunk"
+    },
+    {
+      "infinitive": "take",
+      "past_simple": "took",
+      "past_participle": "taken"
+    },
+    {
+      "infinitive": "make",
+      "past_simple": "made",
+      "past_participle": "made"
+    },
+    {
+      "infinitive": "see",
+      "past_simple": "saw",
+      "past_participle": "seen"
+    },
+    {
+      "infinitive": "give",
+      "past_simple": "gave",
+      "past_participle": "given"
+    },
+    {
+      "infinitive": "know",
+      "past_simple": "knew",
+      "past_participle": "known"
+    },
+    {
+      "infinitive": "write",
+      "past_simple": "wrote",
+      "past_participle": "written"
+    },
+    {
+      "infinitive": "run",
+      "past_simple": "ran",
+      "past_participle": "run"
+    },
+    {
+      "infinitive": "say",
+      "past_simple": "said",
+      "past_participle": "said"
+    },
+    {
+      "infinitive": "sleep",
+      "past_simple": "slept",
+      "past_participle": "slept"
+    },
+    {
+      "infinitive": "think",
+      "past_simple": "thought",
+      "past_participle": "thought"
+    },
+    {
+      "infinitive": "come",
+      "past_simple": "came",
+      "past_participle": "come"
+    },
+    {
+      "infinitive": "get",
+      "past_simple": "got",
+      "past_participle": "got/gotten"
+    },
+    {
+      "infinitive": "read",
+      "past_simple": "read",
+      "past_participle": "read"
+    },
+    {
+      "infinitive": "speak",
+      "past_simple": "spoke",
+      "past_participle": "spoken"
+    },
+    {
+      "infinitive": "find",
+      "past_simple": "found",
+      "past_participle": "found"
+    }
+  ]

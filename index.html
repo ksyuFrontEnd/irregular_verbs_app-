@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css?family=Poppins:300,regular,500" rel="stylesheet" />
+    <link rel="stylesheet" href="css/styles.css">
+    <title>Irregular Verbs Application</title>
+</head>
+<body>
+    <div class="wrapper">
+        <header class="header">
+            <div class="header__container">
+                <div class="header__logo">
+                    <a href="" class="header__logo-link">
+                        <img src="images/logo_love-to-learn.jpg" alt="logo">
+                    </a>
+                </div>
+            </div>
+        </header>
+        <main class="main">
+            <div class="main__container">
+                <div class="main__app">
+                    <h1 class="text">English Irregular Verbs</h1>
+                    <h4 class="text">Start writing the verb into the field below and you will find all three forms of this verb!</h4>
+                    <input 
+                        type="text"
+                        class="main__app-input"
+                        placeholder="Write the verb"
+                        id="filter"
+                    >
+                    <ul class="main__app-list" id="list"></ul>
+                </div>
+            </div>
+        </main>
+        <footer class="footer">
+            <div class="footer__container">
+                <p class="text">&copy Oksana Baranik 2024</p>
+            </div>
+        </footer>
+    </div>  
+
+    <script src="data.json"></script>
+    <script src="js/script.js"></script>
+</body>
+</html>
